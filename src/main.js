@@ -1,4 +1,4 @@
-import { L } from "vue2-leaflet"
+
 import { Icon }  from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 
