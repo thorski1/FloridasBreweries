@@ -1,29 +1,21 @@
-# golf-courses
+<h1 align="center">Welcome to Florida's Breweries 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-## Project setup
-```
-npm install
-```
+> I used Vue and Leaflet to make this single page application showing 20 breweries on a map in Florida!
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 🏠 [Homepage](https://jovial-rosalind-d8799b.netlify.com)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Author
 
-### Run your tests
-```
-npm run test
-```
+👤 **Sam Thoyre**
 
-### Lints and fixes files
-```
-npm run lint
-```
+* Github: [@thorski1](https://github.com/thorski1)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
